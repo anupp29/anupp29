@@ -1,5 +1,5 @@
 ### 🚀 Anup Patil | AI Explorer, Full-Stack Magician & Hackathon Junkie  
-![Banner](https://imgs.search.brave.com/rFgUVWd6lYc4p22q-Z4SiSmSwmZoaujiSCJENK_nkig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDItMjIv/dGtUT2xicmtUUGVF/OTdFM1lYeWV5Zy53/ZWJw)
+
 
 #### **👨‍💻 Who am I?**  
 A caffeine-powered **AI nerd** who builds **crazy AI/ML projects**, **disruptive tech**, and **full-stack madness**. If it’s impossible, I’ll still try. If it’s crazy, I’m already working on it.  
