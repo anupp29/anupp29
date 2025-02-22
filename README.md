@@ -1,64 +1,48 @@
-<h2 align="left">Hi 👋! My name is Anup Patil </h2>
+### 🚀 Anup Patil | AI Explorer, Full-Stack Magician & Hackathon Junkie  
+![Banner](https://imgs.search.brave.com/rFgUVWd6lYc4p22q-Z4SiSmSwmZoaujiSCJENK_nkig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDItMjIv/dGtUT2xicmtUUGVF/OTdFM1lYeWV5Zy53/ZWJw)
 
-###
+#### **👨‍💻 Who am I?**  
+A caffeine-powered **AI nerd** who builds **crazy AI/ML projects**, **disruptive tech**, and **full-stack madness**. If it’s impossible, I’ll still try. If it’s crazy, I’m already working on it.  
 
-<img align="right" height="150" src="https://imgs.search.brave.com/rFgUVWd6lYc4p22q-Z4SiSmSwmZoaujiSCJENK_nkig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDItMjIv/dGtUT2xicmtUUGVF/OTdFM1lYeWV5Zy53/ZWJw"  />
+🚀 **Currently:** Building AI-powered **healthcare** & **plagiarism detection** systems.  
+🎯 **Mission:** Solve real-world problems using AI, **one insane project at a time**.  
+🔥 **Passion:** AI, ML, Web Dev, Hackathons & pushing limits.  
+🛠 **Tools:** Python 🐍 | JavaScript ⚡ | React.js ⚛️ | Node.js 🌲 | MongoDB 📦 | AI/ML 🧠  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🏆 **What I Do Best?**
+- **💡 AI-powered Innovations** → AI projects that make you say, “Wait, how is that even possible?”
+- **⚡ Hackathon Beast Mode** → International-level competitor, always pushing for **#1**.
+- **📜 Code Plagiarism Detection** → Built **Cypher**, a beast-level AI for detecting copied code.
+- **🩺 AI in Healthcare** → Developed **Healis**, an AI-driven healthcare platform making a real impact.
+- **📢 Open Source Advocate** → FOSS United Nashik Core Member, growing the **600+ dev community**.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🚀 **Recent Projects That Blew Minds**
+- **[HEALIS - AI in Healthcare](https://github.com/AsPxD/HEALIS)** 🏥 → AI-powered medical system improving patient care
+- **[Cypher - AI Code Plagiarism Detector](https://github.com/AsPxD/Cypher)** 🕵️‍♂️ → Sniffs out copied code like a bloodhound
+- **[MediSync Pro - Admin Dashboard](https://github.com/AsPxD/HealisAdmin)** 📊 → Managing thousands of patients & doctors effortlessly
+- **[ASTRA - Smart AI Voice Assistant](https://github.com/AsPxD/ASTRA)** 🎙 → Your personal AI sidekick
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+### 💬 **Fun Facts About Me**
+- **I debug in my dreams.** Yes, my subconscious is also a dev.
+- **I’ve spent more time in hackathons than in lectures.** No regrets.
+- **My GitHub commits are fueled by coffee ☕ and an existential need to innovate.**
+- **I believe AI will change the world.** So, I'm building it.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+### 📊 **GitHub Stats**
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsPxD&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsPxD&layout=compact&theme=radical)
 
-###
+---
+
+### 🎯 **Let’s Build Something Epic**
+🚀 **Always open to collaborations** on AI/ML projects, hackathons, and open-source contributions. Let’s push the boundaries of tech together!  
+📩 **Ping me on:** [LinkedIn](https://linkedin.com/in/anuppatil29) | [GitHub](https://github.com/AsPxD) | [Twitter](https://twitter.com/yourhandle)  
+⚡ **Motto:** *“Go big, break things, and build the future.”* 🔥
