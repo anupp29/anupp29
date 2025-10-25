@@ -21,10 +21,10 @@ A caffeine-powered **AI nerd** who builds **crazy AI/ML projects**, **disruptive
 ---
 
 ### 🚀 **Recent Projects That Blew Minds**
-- **[HEALIS - AI in Healthcare](https://github.com/AsPxD/HEALIS)** 🏥 → AI-powered medical system improving patient care
-- **[Cypher - AI Code Plagiarism Detector](https://github.com/AsPxD/Cypher)** 🕵️‍♂️ → Sniffs out copied code like a bloodhound
-- **[MediSync Pro - Admin Dashboard](https://github.com/AsPxD/HealisAdmin)** 📊 → Managing thousands of patients & doctors effortlessly
-- **[ASTRA - Smart AI Voice Assistant](https://github.com/AsPxD/ASTRA)** 🎙 → Your personal AI sidekick
+- **[HEALIS - AI in Healthcare](https://github.com/anupp29/HEALIS)** 🏥 → AI-powered medical system improving patient care
+- **[Cypher - AI Code Plagiarism Detector](https://github.com/anupp29/Cypher)** 🕵️‍♂️ → Sniffs out copied code like a bloodhound
+- **[MediSync Pro - Admin Dashboard](https://github.com/anupp29/HealisAdmin)** 📊 → Managing thousands of patients & doctors effortlessly
+- **[ASTRA - Smart AI Voice Assistant](https://github.com/anupp29/ASTRA)** 🎙 → Your personal AI sidekick
 
 ---
 
@@ -37,12 +37,12 @@ A caffeine-powered **AI nerd** who builds **crazy AI/ML projects**, **disruptive
 ---
 
 ### 📊 **GitHub Stats**
-![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsPxD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsPxD&layout=compact&theme=radical)
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupp29&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupp29&layout=compact&theme=radical)
 
 ---
 
 ### 🎯 **Let’s Build Something Epic**
 🚀 **Always open to collaborations** on AI/ML projects, hackathons, and open-source contributions. Let’s push the boundaries of tech together!  
-📩 **Ping me on:** [LinkedIn](https://linkedin.com/in/anuppatil29) | [GitHub](https://github.com/AsPxD) | [Twitter](https://twitter.com/yourhandle)  
+📩 **Ping me on:** [LinkedIn](https://linkedin.com/in/anuppatil29) | [GitHub](https://github.com/anupp29) | [Twitter](https://twitter.com/_zeolite20)  
 ⚡ **Motto:** *“Go big, break things, and build the future.”* 🔥
