@@ -11,10 +11,12 @@ I’m always eager to learn, experiment, and build reliable, scalable solutions.
 
 <h3>Currently learning about</h3>
 
-- 🌱 MLOps practices and frameworks  
-- 👨‍💻 Building deep learning solutions for edge devices  
-- 💬 Ask me about fine-tuning machine learning models  
-- 🦀 Learning Rust and Rust-powered DataFrames (Polars)
+- 🌱 MLOps practices and deployment workflows  
+- 👨‍💻 Building end-to-end machine learning pipelines using Python  
+- 🧠 Machine learning, deep learning, and NLP models  
+- 💬 Model training, evaluation, and fine-tuning  
+- ⚙ Scalable and production-ready AI systems
+
 
 <h3 align="center">Connect with me</h3>
 
